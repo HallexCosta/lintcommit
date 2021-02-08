@@ -29,3 +29,13 @@ Aplicação Lintcommit usando commitlint,cConfig-conventional, commitizen e Husk
 - [commitizen](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/commitizen.md)
 
 - [Husky](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/husky.md)
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/HallexCosta/lintcommit/blob/main/LICENSE) para mais detalhes.
+
+## :computer: Desenvolvedor
+
+| Author | 
+|--| 
+| [<img src="https://avatars0.githubusercontent.com/u/55293671?s=115&u=053dc2155e236f8590943d52bce9fea037b001f7&v=4"><br><sub>@HallexCosta</sub>](https://github.com/HallexCosta) |
